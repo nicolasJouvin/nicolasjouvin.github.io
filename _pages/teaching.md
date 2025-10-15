@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Some materials for past and present courses.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
+## present
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+ * 2025-2026, M2 Maths en Actions: 
 
-Organize your courses by years, topics, or universities, however you like!
+## past courses
+
+* 2022-2025, M2 DS, Evry: Discrete latent variable models
+* 2022-2025, M2 DS, Evry: Data-camp

@@ -1,21 +1,23 @@
-"decastro":
+"de castro":
   - firstname: ["Yohann", "Y."]
     url: https://ydecastro.github.io/
 
+"gribonval":
+  - firstname: ["Rémi", "R."]
+    url: https://perso.ens-lyon.fr/remi.gribonval/
+
+"gangloff":
+  - firstname: ["Hugo", "H."]
+    url: https://hgangloff.github.io/
+
 "latouche":
-  - last_name: ["Pierre", "P."]
+  - firstname: ["Pierre", "P."]
     url: https://lmbp.uca.fr/~latouche/
 
 "bouveyron":
-  - last_name: ["Charles", "C."]
+  - firstname: ["Charles", "C."]
     url: https://math.univ-cotedazur.fr/~cbouveyr/
 
 "come":
-  - last_name: ["Etienne", "E."]
+  - firstname: ["Etienne", "E."]
     url: https://www.comeetie.fr/
-
-"gribonval":
-  - firstname: ["Yohann", "Y."]
-    url: https://perso.ens-lyon.fr/remi.gribonval/
-
-
