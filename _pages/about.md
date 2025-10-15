@@ -2,33 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Researcher in Statistics & Machine Learning, <a href='https://mia-ps.inrae.fr/'>Université Paris-Saclay/AgroParisTech/INRAE</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p><small>UMR MIA Paris-Saclay</small></p>
+    <p><small>Campus Agro Paris-Saclay</small></p>
+    <p><small>22 place de l'agronomie</small></p>
+    <p><small>91120 Palaiseau</small></p>
+    <p><small><a href="mailto:nicolas.jouvin[at]inrae[dot]fr">nicolas.jouvin[at]inrae[dot]fr</a</small></p>
+    <p><small><a href="assets/pdf/CVen_NicolasJouvin.pdf">Academic CV (10/2025)</a></small></p>
 
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a researcher at [INRAE](https://www.inrae.fr/) in the MIA-Paris laboratory, working in statistics and machine learning. I mainly worked in computational statistics for inference of latent variable models. Recently, I'm also interested in physics-informed machine learning methods and their applications for inverse problems and generative modeling.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+From 2020 to 2021 I was a postdoc at Ecole Centrale Lyon working with Yohann De Castro on learning mixture models with sparse regularisation on the space of measures. Prior to that, I completed my PhD on *high-dimensional data and graph clustering with discrete latent variable models* at Paris 1 Panthéon-Sorbonne University, under the supervision of Pierre Latouche, Charles Bouveyron and Alain Livartowski.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research interests:
+
+- Physics-informed machine learning (PINNs)
+- Latent variable models
+- Variational inference
+- Sparse regularisation
