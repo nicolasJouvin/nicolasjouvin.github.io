@@ -30,11 +30,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-checkout-jinns-v1-6-0",
+          title: 'Checkout jinns v1.6.0',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/jinns/";
             },},{id: "news-m2-internship-offer-on-parameter-estimation-in-sdes-with-pinns",
           title: 'M2 Internship offer on parameter estimation in SDEs with PINNs.',
           description: "",
