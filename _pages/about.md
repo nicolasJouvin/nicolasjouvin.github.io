@@ -8,14 +8,14 @@ profile:
   align: right
   image: tolbiac.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
   address: >
-    <p><small>UMR MIA Paris-Saclay</small></p>
-    <p><small>Campus Agro Paris-Saclay</small></p>
-    <p><small>22 place de l'agronomie</small></p>
-    <p><small>91120 Palaiseau</small></p>
-    <p><small><a href="mailto:nicolas.jouvin[at]inrae[dot]fr">nicolas.jouvin[at]inrae[dot]fr</a</small></p>
-    <p><small><a href="assets/pdf/CVen_NicolasJouvin.pdf">Academic CV (10/2025)</a></small></p>
+    <small>UMR MIA Paris-Saclay</small><br>
+    <small>Campus Agro Paris-Saclay</small><br>
+    <small>22 place de l'agronomie</small><br>
+    <small>91120 Palaiseau</small><br>
+    <small><a href="mailto:nicolas.jouvin[at]inrae[dot]fr">nicolas.jouvin[at]inrae[dot]fr</a></small><br>
+    <small><a href="assets/pdf/CVen_NicolasJouvin.pdf">Academic CV (10/2025)</a></small>
+
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
