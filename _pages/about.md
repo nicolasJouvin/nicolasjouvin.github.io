@@ -14,7 +14,7 @@ profile:
     <small>22 place de l'agronomie</small><br>
     <small>91120 Palaiseau</small><br>
     <small><a href="mailto:nicolas.jouvin[at]inrae[dot]fr">nicolas.jouvin[at]inrae[dot]fr</a></small><br>
-    <small><a href="assets/pdf/CVen_NicolasJouvin.pdf">Academic CV (10/2025)</a></small>
+    <small><a href="assets/pdf/CVen_NicolasJouvin.pdf">Academic CV (2024, update incoming)</a></small>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
