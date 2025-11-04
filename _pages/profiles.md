@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Colleagues
 
-Julie Aubert, Charles Bouveyron, Lucia Clarotto, Julien Chiquet, Yohann De Castro, Sophie Donnet, Hugo Gangloff, Pierre Gloaguen, Rémi Gribonval, Pierre Latouche
+Julie Aubert, Charles Bouveyron, Lucia Clarotto, Julien Chiquet, Yohann De Castro, Sophie Donnet, Hugo Gangloff, Pierre Gloaguen, Rémi Gribonval, Pierre Latouche, Brendan Murphy
 
 ## Master students
 
