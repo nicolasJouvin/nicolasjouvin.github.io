@@ -9,6 +9,9 @@ nav_order: 2
 ## present
 
  * 2025-2026, M2 Maths en Actions - *Modélisation stochastique et apprentissage statistique*
+    * Slides for the course [click here to download](/assets/pdf/teaching/unsupervised/slides_unsupervised.pdf)
+    * Optional lab sessions:
+        1. [EM for GMM](/assets/pdf/teaching/unsupervised/TP_GMM_EM.pdf)
 
 ## past courses
 
