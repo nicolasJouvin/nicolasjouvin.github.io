@@ -52,6 +52,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/pinn_sde_intership/";
+            },},{id: "news-i-signed-the-atecopol-39-s-quot-conscientious-objection-to-generative-ai-in-reasearch-amp-teaching-quot-manifesto",
+          title: 'I signed the Atecopol&amp;#39;s &amp;quot;Conscientious objection to Generative AI in Reasearch &amp;amp; Teaching&amp;quot;...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/iagen_manifesto/";
             },},{
         id: 'social-email',
         title: 'email',
