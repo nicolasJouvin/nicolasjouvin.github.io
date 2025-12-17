@@ -57,6 +57,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/iagen_manifesto/";
+            },},{id: "news-slides-and-material-for-the-quot-fabrique-ton-pinns-quot-workshop",
+          title: 'Slides and material for the &amp;quot;Fabrique ton PINNs&amp;quot; workshop.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/tuto_fabrique_ton_pinn/";
             },},{
         id: 'social-email',
         title: 'email',
