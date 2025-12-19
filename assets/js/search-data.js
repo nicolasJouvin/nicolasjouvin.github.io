@@ -62,6 +62,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/tuto_fabrique_ton_pinn/";
+            },},{id: "news-checkout-jinns-v1-7-0",
+          title: 'Checkout jinns v1.7.0',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/jinns_1-7/";
+            },},{id: "news-save-the-date-and-subsribe-to-the-piml-day-on-april-15th-2026",
+          title: 'Save the date and subsribe to the PIML Day on April 15th, 2026...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/PIMLDay26/";
             },},{
         id: 'social-email',
         title: 'email',
