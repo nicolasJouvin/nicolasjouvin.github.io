@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-12-19
-title: Save the date and subsribe to the PIML Day on April 15th, 2026
+title: \[Save the date\] PIML Day on April 15th, 2026 @AgroPariTech
 inline: false
 related_posts: false
 ---
