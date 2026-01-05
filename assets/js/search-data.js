@@ -68,7 +68,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/jinns_1-7/";
             },},{id: "news-save-the-date-piml-day-on-april-15th-2026-agroparitech",
-          title: '\[Save the date\] PIML Day on April 15th, 2026 @AgroPariTech',
+          title: 'Save the date, PIML Day on April 15th, 2026 @AgroPariTech',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/PIMLDay26/";
