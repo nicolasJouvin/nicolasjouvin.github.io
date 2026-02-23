@@ -72,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/PIMLDay26/";
+            },},{id: "news-slides-from-my-talk-at-lpsm-statistics-seminar",
+          title: 'Slides from my talk at LPSM statistics seminar',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/lpsm_seminar/";
             },},{
         id: 'social-email',
         title: 'email',
