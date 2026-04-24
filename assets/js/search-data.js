@@ -67,16 +67,31 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/jinns_1-7/";
-            },},{id: "news-save-the-date-piml-day-on-april-15th-2026-agroparitech",
-          title: 'Save the date, PIML Day on April 15th, 2026 @AgroPariTech',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/PIMLDay26/";
             },},{id: "news-slides-from-my-talk-at-lpsm-statistics-seminar",
           title: 'Slides from my talk at LPSM statistics seminar',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/lpsm_seminar/";
+            },},{id: "news-checkout-jinns-v1-9",
+          title: 'Checkout jinns v1.9',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/jinns_1-9/";
+            },},{id: "news-our-pinns-tutorial-for-the-pimlday",
+          title: 'Our PINNs tutorial for the PIMLDay',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/pinns-tutorial/";
+            },},{id: "news-piml-day-april-15-agroparitech",
+          title: 'PIML Day, April 15, @AgroPariTech',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/PIMLDay26/";
+            },},{id: "news-on-sabbatical-no-e-mail-until-september-7",
+          title: 'On sabbatical (no e-mail) until September 7',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/sabbatical/";
             },},{
         id: 'social-email',
         title: 'email',
