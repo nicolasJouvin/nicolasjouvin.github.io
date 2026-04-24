@@ -1,9 +1,15 @@
 ---
 layout: post
-date: 2025-12-19
-title: Save the date, PIML Day on April 15th, 2026 @AgroPariTech
+date: 2026-4-15
+title: PIML Day, April 15, @AgroPariTech
 inline: false
 related_posts: false
+---
+
+**Update** The first edition of this [PIMLDay 2026](https://pimlday26.sciencesconf.org/) was a success! The 6 speakers did an amazing job at covering various aspects of the fields from optimization, to optimal control and surrogate modeling. Many thanks to them!
+
+It was also a great fun to organize this with my colleagues Lucia, Hugo and Mathilde ! Who will organize the next edition ? :)
+
 ---
 
 We are organizing a day of symposium on physic-informed machine-learning together with Lucia Clarotto, Hugo Gangloff and Mathilde Mougeot. We planned a nice program & list of speakers covering a wide range or area from statistical learning to modeling and numerical analysis ! The event will also have a poster session.
