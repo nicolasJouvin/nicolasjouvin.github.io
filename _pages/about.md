@@ -26,16 +26,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-<!-- > 📘 Sabbatical
->
-> Taking a break -->
-
-<blockquote> 
-  <h3>🚲 On sabbatical leave</h3>
-  <p>
-    From May 4, I'll be away from work and my e-mails for 4 months. I'll be back on September 7.
-  </p>
-</blockquote>
 
 I am a researcher at [INRAE](https://www.inrae.fr/) in the MIA-Paris laboratory, working in statistics and machine learning. I mainly worked in computational statistics for inference of latent variable models. Recently, I'm also interested in physics-informed machine learning methods and their applications for inverse problems and generative modeling.
 
