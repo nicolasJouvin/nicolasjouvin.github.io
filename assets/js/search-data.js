@@ -57,11 +57,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/iagen_manifesto/";
-            },},{id: "news-slides-and-material-for-the-quot-fabrique-ton-pinns-quot-workshop",
-          title: 'Slides and material for the &amp;quot;Fabrique ton PINNs&amp;quot; workshop.',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/tuto_fabrique_ton_pinn/";
             },},{id: "news-checkout-jinns-v1-7-0",
           title: 'Checkout jinns v1.7.0',
           description: "",
@@ -92,6 +87,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/sabbatical/";
+            },},{id: "news-backistan-end-of-the-sabbatical",
+          title: 'Backistan - end of the sabbatical',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/end_sabbatical/";
+            },},{id: "news-fabrique-ton-pinns-workshop-2nd-edition-october-20-palaisdescongrès",
+          title: 'Fabrique ton PINNs workshop (2nd edition), October 20, @PalaisDesCongrès',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/tuto_fabrique_ton_pinn/";
             },},{
         id: 'social-email',
         title: 'email',
